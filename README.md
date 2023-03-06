@@ -15,8 +15,7 @@ Buy cool hacker toys here and use code ROCKETGOD for 5% discount<br>
 <br>
 Come hang out with me at:<br>
 <a href="https://discord.gg/5DMM6RNtG8">The Pirates' Plunder (Discord)</a><br>
-<br>
-If you want to chat with RocketGod, just @RocketGod there.
+If you want to chat with RocketGod, just @RocketGod there.<br>
 <br>
 Tokens/NFT<br>
 0x5717085c2c9e9a0e2fcafad4faff03dd5c75295<br>
